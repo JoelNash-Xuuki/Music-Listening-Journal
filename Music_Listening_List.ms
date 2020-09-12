@@ -1,6 +1,6 @@
 
 .LG 
-				\s[20]Sphere Monks Music Listening Journal
+                       \s[20]Sphere Monks Music Listening Journal
 .IP
 ___________________________________________________________________________________
 
@@ -9,13 +9,13 @@ ________________________________________________________________________________
 
  \fBArtist\fR: Vladislav Delay
 
- \fBAlbum:\fR:
+ \fBAlbum:\fR: Entain
 
  \fBDate:\fR  March 29th, 2019
 
  \fBLength:\fR 1:16:53
 
- \fBTrack - 1:\fR Here is some example text to come back to and describe reflects on
+ \fBTrack - 1:\fR Here is some example text to come back to and describe reflections on
 the experience of this piece of music. This example text might be apart of a list
 of tracks
 
